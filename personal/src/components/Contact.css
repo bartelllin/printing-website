@@ -1,0 +1,62 @@
+h2 {
+    text-align: center;
+}
+#message{
+    margin-bottom: 20px;
+}
+#name {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 370px;
+}
+#email {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 370px;
+}
+
+#subject {
+    margin-bottom: 20px;
+    height: 30px;
+    width: 370px;
+}
+
+#button {
+    margin-top: 20px;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+
+}
+
+#contact-outer {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px
+}
+
+#emailform {
+    margin: auto 30px auto 0px;
+}
+
+#contact-info {
+    display: inline;
+}
+
+#box {
+    inline-size: 500px;
+    overflow-wrap: break-word;
+    margin-bottom: 50px;
+}
+
+#cont {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    list-style-type: none;
+}

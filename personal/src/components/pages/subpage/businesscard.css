@@ -1,0 +1,62 @@
+#prod-page {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#card-img {
+    border: 1px solid #000;
+    margin-right: 300px;
+    margin-left: -300px;
+}
+#img-header {
+    font-size: 32px;
+    text-align: left;
+    margin-left: -300px;
+}
+
+#prod-name {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+#form-dis {
+    display: flex;
+}
+
+.form-con {
+    margin-bottom: 15px;
+    margin-right: 30px;
+    width: 200px;
+}
+
+#special {
+    margin-bottom: 15px;
+    height: 40px;
+    width: 430px;
+}
+
+#quant {
+    width: 60px;
+    height: 40px;
+    margin-right: 15vh;
+}
+
+#size,
+#sided,
+#custom, 
+#color,
+#paper-stock {
+    height: 40px;
+    width: 200px;
+}
+
+#quote {
+    background-color: #aa916c;
+    color: #ffffff;
+    padding: 13px 35px;
+    display: inline-block;
+    font-weight: 500;
+    border-radius: 2px;
+    position: relative;
+}
