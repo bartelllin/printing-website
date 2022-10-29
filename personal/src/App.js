@@ -20,6 +20,7 @@ function App() {
           <Route path="/products" component={Products} />
           <Route path="/contact-us" component={ContactUs} />
           <Route path="/business-card" component={BusinessCard} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Switch>
         <Footer />
       </Router>
